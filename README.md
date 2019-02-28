@@ -13,7 +13,7 @@ Bibtex for convenience:
 	publisher = {Springer},
 	organization = {Springer},
 	address = {Larnaca, Cyprus},
-	abstract = {Edge computing requires the addressing of several challenges in terms of privacy, complexity, bandwidth and battery life. While in the past attempts have been made to predict users{\textquoteright} responsiveness to smartphone notifica-tions, we show that this is possible with a minimal number of just three features synthesized from non-sensor based data. Our approach demon-strates that it is possible to classify user attentiveness to notifications with good accuracy, and predict response time to any type of notification within a margin of 1 minute, without the need for personalized modelling.},
+	abstract = {Edge computing requires the addressing of several challenges in terms of privacy, complexity, bandwidth and battery life. While in the past attempts have been made to predict users' responsiveness to smartphone notifications, we show that this is possible with a minimal number of just three features synthesized from non-sensor based data. Our approach demonstrates that it is possible to classify user attentiveness to notifications with good accuracy, and predict response time to any type of notification within a margin of 1 minute, without the need for personalized modelling.},
 	keywords = {Attentivity, Notifications, Responsiveness, Smartphones},
 	author = {Komninos, Andreas and Frengkou, Elton and Garofalakis, John}
 }
